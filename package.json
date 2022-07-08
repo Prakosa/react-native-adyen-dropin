@@ -36,7 +36,7 @@
     "ios",
     "android"
   ],
-  "repository": "git@github.com:ancon-labs/react-native-adyen-dropin.git",
+  "repository": "git@github.com:Prakosa/react-native-adyen-dropin.git",
   "author": "Jesper Johansson <jesper.johansson@ancon.io> (https://ancon.io)",
   "license": "MIT",
   "bugs": {
@@ -94,7 +94,7 @@
     "git": {
       "commitMessage": "chore: release ${version}",
       "tagName": "v${version}",
-      "pushRepo": "git@github.com:ancon-labs/react-native-adyen-dropin.git"
+      "pushRepo": "git@github.com:Prakosa/react-native-adyen-dropin.git"
     },
     "npm": {
       "publish": true
